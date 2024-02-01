@@ -2,7 +2,7 @@ html, body {
     height: 100%;
 }
 body {
-    background-color: aquamarine;
+    background-color: white;
     font-family: 'Courier New', Courier, monospace;
 }
 img {
@@ -13,7 +13,7 @@ img {
     max-width: 992px;
     margin: 0px auto;
     /* height: 600px; */
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* background-image: url(../../анкета\ smm.png); */
 }
 .bg_main {
@@ -42,7 +42,7 @@ img {
     width: 80%;
     border-radius: 50%;
     border: 3px solid #fff3cb;
-    position: absolute;
+    position: absolute; 
 }
 .header-logo img {
     border-radius: 50%;
@@ -60,9 +60,10 @@ img {
     font-weight: 600;
     padding: 12px 0px;
 }
-.wrapper main {
+/* .wrapper main {
 
 }
 .wrapper footer {
 
-}
+} */
+
